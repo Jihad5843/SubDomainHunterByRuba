@@ -1,0 +1,16 @@
+{
+  "timeout": 5.0,
+  "workers": 24,
+  "retries": 1,
+  "rate_limit": 0.0,
+  "wordlist": "wordlists/common.txt",
+  "passive": true,
+  "active": true,
+  "probe": true,
+  "dns_over_https": true,
+  "max_candidates": 5000,
+  "output": "reports",
+  "format": "html",
+  "user_agent": "SubDomainHunter/2.0",
+  "include_all_candidates": false
+}

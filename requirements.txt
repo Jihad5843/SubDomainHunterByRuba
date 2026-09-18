@@ -1,0 +1,2 @@
+# SubDomainHunter intentionally uses Python Standard Library only.
+# No third-party packages are required.
